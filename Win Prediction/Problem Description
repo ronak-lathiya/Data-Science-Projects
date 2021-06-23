@@ -1,0 +1,3 @@
+We have been given data of various bid made by a company.
+It includes several variables like Client Category, Solution Type, VP Name, Deal Cost,Deal Status(Won/Lost) etc.
+Based on given data we need to build a Supervised Machine Learning model which can predict deal outcome as accurate as possible. 
