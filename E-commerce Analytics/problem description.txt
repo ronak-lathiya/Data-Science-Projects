@@ -1,2 +1,4 @@
 Problem Description:
-We have been given a single file which contains data related to the e-commerce transactions. This data contains date-time of sale, shipping location, price of single unit etc. from 2016 to 2017. We need to build an unsupervised learning model to analyze customers by Recency, Frequency and Monetary value approach.
+We have been given a single file which contains data related to the e-commerce transactions. 
+This data contains date-time of sale, shipping location, price of single unit etc. from 2016 to 2017. 
+We need to build an unsupervised learning model to analyze customers by Recency, Frequency and Monetary value approach.
