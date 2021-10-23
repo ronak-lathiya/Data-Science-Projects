@@ -1,0 +1,4 @@
+We have been given data of different markets.
+Asian stock market get closed before US market opens. Generally all stock markets are correlated to each other. 
+Using this correlation, we need to build Multiple Linear Regression model to predict change in SPY, an exchange traded fund in US market.
+And also need to build profitable strategy.
