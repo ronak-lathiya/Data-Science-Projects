@@ -52,7 +52,7 @@ async def welcome(message: types.Message):
     Args:
         message (types.Message): _description_
     """
-    await message.reply("Hi\nI am a Chat Bot! Created by Bappy. How can i assist you?")
+    await message.reply("Hi\nI am a Chat Bot! Created by Ronak. How can i assist you?")
 
 
 
